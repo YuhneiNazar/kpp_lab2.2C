@@ -1,0 +1,15 @@
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\bin\Debug\net7.0\kpp_lab2.2C.exe
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\bin\Debug\net7.0\kpp_lab2.2C.deps.json
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\bin\Debug\net7.0\kpp_lab2.2C.runtimeconfig.json
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\bin\Debug\net7.0\kpp_lab2.2C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\bin\Debug\net7.0\kpp_lab2.2C.pdb
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\refint\kpp_lab2.2C.dll
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.pdb
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\kpp_lab2.2C.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\lab\kpp_lab2.2C\kpp_lab2.2C\obj\Debug\net7.0\ref\kpp_lab2.2C.dll
